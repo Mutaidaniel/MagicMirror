@@ -48,6 +48,7 @@ process.on("uncaughtException", function (err) {
 		Log.error("If you think this really is an issue, please open an issue on GitHub: https://github.com/MagicMirrorOrg/MagicMirror/issues");
 	}
 });
+//nkila0
 
 /**
  * The core app.
